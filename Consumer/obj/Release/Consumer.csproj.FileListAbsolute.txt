@@ -1,0 +1,11 @@
+C:\Users\Shche\source\repos\Consumer\Consumer\bin\Release\Consumer.exe.config
+C:\Users\Shche\source\repos\Consumer\Consumer\bin\Release\Consumer.exe
+C:\Users\Shche\source\repos\Consumer\Consumer\bin\Release\Consumer.pdb
+C:\Users\Shche\source\repos\Consumer\Consumer\obj\Release\Consumer.csproj.AssemblyReference.cache
+C:\Users\Shche\source\repos\Consumer\Consumer\obj\Release\Consumer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shche\source\repos\Consumer\Consumer\obj\Release\Consumer.Form1.resources
+C:\Users\Shche\source\repos\Consumer\Consumer\obj\Release\Consumer.Properties.Resources.resources
+C:\Users\Shche\source\repos\Consumer\Consumer\obj\Release\Consumer.csproj.GenerateResource.cache
+C:\Users\Shche\source\repos\Consumer\Consumer\obj\Release\Consumer.csproj.CoreCompileInputs.cache
+C:\Users\Shche\source\repos\Consumer\Consumer\obj\Release\Consumer.exe
+C:\Users\Shche\source\repos\Consumer\Consumer\obj\Release\Consumer.pdb
